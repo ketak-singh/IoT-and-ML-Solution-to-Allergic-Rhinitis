@@ -11,7 +11,7 @@ That's all about the working.
 
 
 ## Hardware:
-We are using 2 sensors: 
+### We are using 2 sensors: 
 
 ### AQI (dust) sensor- GP2Y1010
 
