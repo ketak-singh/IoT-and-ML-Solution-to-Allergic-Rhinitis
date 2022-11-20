@@ -1,4 +1,4 @@
-# So this project has 3 components.
+# This project has 3 components.
 ### 1) Hardware- the wristband
 ### 2) Cloud- storing sensor data coming from wristband
 ### 3) Backend- machine learning code which predicts the allergy by taking the wristband inputs from the cloud and the result is again stored into the cloud database.
